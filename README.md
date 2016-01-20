@@ -1,2 +1,2 @@
 # Offshore
-offshore constructor 
+offshore constructor. The sourcode is buggy
